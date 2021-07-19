@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Python and Html**
 
-- 👨‍💻 All of my projects are available at [devthejul.github.io](devthejul.github.io)
+- 👨‍💻 All of my projects are available at [devthejul.github.io](https://devthejul.github.io)
 
 - 📫 How to reach me **Discord: Jul#4941**
 
